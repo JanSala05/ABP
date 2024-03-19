@@ -1,1 +1,1 @@
-# ABP
+# Nuestro proyecto de ABP va sobre la venta de aceite. En la parte de programación hemos decidido hacer un JFrame con un login (Usuario:admin Contraseña:Monlau2023) y seguidamente otro JFrame para calcular la cantidad de aceite que necesitaria tu familia semanalmente, dependiendo de las opciones que elijas.
